@@ -1,0 +1,4 @@
+---
+
+- name: Deploy Three Tier App
+  import_playbook: mycollections.threetierapp.config
