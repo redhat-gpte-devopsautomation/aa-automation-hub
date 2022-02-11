@@ -1,4 +1,8 @@
 ---
 collections:
+  - ansible.posix
+  - community.general
+  - openstack.cloud
+  - community.mysql
   - mycollections.threetierapp
   
